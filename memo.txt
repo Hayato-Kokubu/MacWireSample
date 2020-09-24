@@ -1,0 +1,5 @@
+MacWire Scala のDIツール 静的
+
+
+
+https://github.com/softwaremill/macwire
